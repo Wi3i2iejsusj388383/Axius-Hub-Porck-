@@ -71,7 +71,7 @@ MainLayout.FillDirection = Enum.FillDirection.Vertical
 
 local TitleLabel = Instance.new("TextLabel", MainFrame)
 TitleLabel.Size = UDim2.new(1, 0, 0, 25)
-TitleLabel.Text = "PORCK HUB"
+TitleLabel.Text = "Axius Hub"
 TitleLabel.TextColor3 = Color3.fromRGB(255, 100, 0)
 TitleLabel.Font = Enum.Font.GothamBold
 TitleLabel.TextSize = 16
